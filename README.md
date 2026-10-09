@@ -2,8 +2,7 @@
 
 Repositori ini berisi sekumpulan kode program Java yang dibangun untuk memenuhi tugas inheritance Pemrograman Berorientasi Objek (PBO). Program ini memodelkan bentuk geometris dasar (Bentuk, Bujur Sangkar, Lingkaran, dan Silinder) untuk menghitung luas dan volume. 
 
-Sesuai dengan instruksi tugas, program ini mengimplementasikan tiga pilar utama OOP sebagai berikut<img width="1118" height="472" alt="bentuk" src="https://github.com/user-attachments/assets/2e9c8988-c2bc-4f03-8d2b-055c698eaac5" />
-:
+Sesuai dengan instruksi tugas, program ini mengimplementasikan tiga pilar utama OOP sebagai berikut:
 
 ### 1. Encapsulation (Enkapsulasi)
 Penerapan *encapsulation* (pembungkusan data) bertujuan untuk menjaga keamanan data agar tidak dimodifikasi secara sembarangan dari luar kelas. Dalam kode ini, enkapsulasi diterapkan dengan cara:
